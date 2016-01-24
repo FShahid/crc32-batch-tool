@@ -1,4 +1,4 @@
-# CRC32 hash calculation of multiple files at a time.
+# CRC32 Batch Tool: CRC32 hash calculation of multiple files at a time.
 
 Add files by either browsing or drag and drop multiple files at a time
 
@@ -24,4 +24,4 @@ Threading support
 
 Drag n Drop support
 
-Efficient error handling 
+Efficient error handling
